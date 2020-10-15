@@ -1,0 +1,16 @@
+{
+    "name": "Daily Positive Affirmations",
+    "manifest_version": 2,
+    "version": "1.0",
+    "description": "Some love and support from the universe",
+    "icons":{
+    "128": "icon/chromeextensionlogo.png"
+    },
+  "content_scripts": [
+    {
+      "matches": ["http://*/*", "https://*/*"],
+      "js": ["js/p5.min.js", "js/sketch.js"],
+      "css": ["css/style.css"]
+    }
+  ]
+}
