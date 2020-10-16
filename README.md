@@ -1,11 +1,11 @@
 # Daily Positive Affirmation Chrome Extension
-
+![Affirm!](https://github.com/JiachengTiffanyWang/Project2/pull/1)
 A Chrome extension that send you love and positive affirmations, made with p5.js
 
 
 ### How To Install
 
-1. Download this repo as a zip file and unzip it
+1. Download this repo as a zip file and unzip it, delete the undebuged one
 2. Open the `chrome://extensions` page
 3. Enable developer mode (if it’s not already)
 4. Click on “Load unpacked extension”
